@@ -1,0 +1,1444 @@
+[
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 999.99,
+    "description": "Samsung Galaxy S23 Ultra with a 200MP camera, Snapdragon 8 Gen 2 processor, and a 5000mAh battery.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Apple iPhone 14 Pro",
+    "price": 1099.99,
+    "description": "Apple iPhone 14 Pro with A16 Bionic chip, 48MP camera, Dynamic Island, and Always-On Display.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Apple Store",
+    "stock": 5
+  },
+  {
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "price": 349.99,
+    "description": "Industry-leading noise-canceling headphones with up to 30 hours of battery life and high-resolution audio.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "JBL Boombox 3 Bluetooth Speaker",
+    "price": 199.99,
+    "description": "JBL Boombox 3 with powerful bass, waterproof design, and up to 24 hours of playtime.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Speakers",
+    "seller": "Flipkart",
+    "stock": 6
+  },
+  {
+    "name": "HP Pavilion 15 Laptop",
+    "price": 599.99,
+    "description": "HP Pavilion 15 with Intel Core i7, 16GB RAM, 512GB SSD, and Windows 11.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Best Buy",
+    "stock": 4
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 39",
+    "price": 120.00,
+    "description": "Nike Air Zoom Pegasus 39 running shoes with Zoom Air cushioning for a responsive feel.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Nike Store",
+    "stock": 7
+  },
+  {
+    "name": "Samsung 55-Inch QLED 4K Smart TV",
+    "price": 699.99,
+    "description": "Samsung QLED 55-inch 4K UHD Smart TV with Quantum HDR, Alexa, and Google Assistant support.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Home Appliances",
+    "seller": "Amazon",
+    "stock": 3
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "description": "Sony PlayStation 5 with ultra-high-speed SSD, 3D Audio, and immersive gameplay experience.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "GameStop",
+    "stock": 2
+  },
+  {
+    "name": "Bose QuietComfort 45 Wireless Headphones",
+    "price": 279.99,
+    "description": "Bose QuietComfort 45 with noise-canceling technology and up to 24 hours of battery life.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/16.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "price": 1199.99,
+    "description": "MacBook Air with M2 chip, Liquid Retina display, 8GB RAM, and 512GB SSD.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/17.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Apple Store",
+    "stock": 5
+  },
+  {
+    "name": "Samsung Galaxy S21 Ultra 5G",
+    "price": 999.99,
+    "description": "Samsung Galaxy S21 Ultra 5G features a 6.8-inch Dynamic AMOLED 2X display, 108MP camera, and 5G connectivity.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Apple iPhone 13 Pro",
+    "price": 1099.99,
+    "description": "Apple iPhone 13 Pro features a 6.1-inch Super Retina XDR display, A15 Bionic chip, and triple 12MP cameras.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "price": 899.99,
+    "description": "OnePlus 9 Pro features a 6.7-inch Fluid AMOLED display, 48MP camera, and Warp Charge 65T.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 799.99,
+    "description": "Xiaomi Mi 11 Ultra features a 6.81-inch AMOLED display, 50MP camera, and 67W fast charging.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Google Pixel 6 Pro",
+    "price": 899.99,
+    "description": "Google Pixel 6 Pro features a 6.7-inch OLED display, 50MP camera, and Google Tensor chip.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Sony WH-1000XM4 Wireless Headphones",
+    "price": 349.99,
+    "description": "Sony WH-1000XM4 features industry-leading noise cancellation, 30-hour battery life, and touch sensor controls.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 12
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "price": 329.99,
+    "description": "Bose QuietComfort 45 features world-class noise cancellation, 24-hour battery life, and balanced audio.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Jabra Elite 85h",
+    "price": 249.99,
+    "description": "Jabra Elite 85h features smart noise cancellation, 36-hour battery life, and voice assistant support.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Sennheiser Momentum 3 Wireless",
+    "price": 399.99,
+    "description": "Sennheiser Momentum 3 Wireless features adaptive noise cancellation, 17-hour battery life, and premium sound quality.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/16.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Apple AirPods Max",
+    "price": 549.99,
+    "description": "Apple AirPods Max features high-fidelity audio, active noise cancellation, and spatial audio.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/17.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "HP Pavilion 15",
+    "price": 799.99,
+    "description": "HP Pavilion 15 features a 15.6-inch Full HD display, AMD Ryzen 5 processor, and 8GB RAM.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/18.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Acer Aspire 5",
+    "price": 699.99,
+    "description": "Acer Aspire 5 features a 15.6-inch Full HD display, Intel Core i5 processor, and 8GB RAM.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/19.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Lenovo Yoga C940",
+    "price": 1299.99,
+    "description": "Lenovo Yoga C940 features a 14-inch 4K display, Intel Core i7 processor, and 16GB RAM.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/20.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 1399.99,
+    "description": "Dell XPS 13 features a 13.4-inch 4K display, Intel Core i7 processor, and 16GB RAM.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/21.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Microsoft Surface Laptop 4",
+    "price": 1299.99,
+    "description": "Microsoft Surface Laptop 4 features a 13.5-inch PixelSense display, AMD Ryzen 5 processor, and 8GB RAM.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/22.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Canon EOS R5",
+    "price": 3899.99,
+    "description": "Canon EOS R5 features a 45MP full-frame sensor, 8K video recording, and 5-axis image stabilization.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/23.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Sony Alpha 7 III",
+    "price": 1999.99,
+    "description": "Sony Alpha 7 III features a 24MP full-frame sensor, 4K video recording, and 5-axis image stabilization.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/24.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Nikon Z6 II",
+    "price": 1999.99,
+    "description": "Nikon Z6 II features a 24MP full-frame sensor, 4K video recording, and dual EXPEED 6 processors.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/25.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Fujifilm X-T4",
+    "price": 1699.99,
+    "description": "Fujifilm X-T4 features a 26MP APS-C sensor, 4K video recording, and 5-axis image stabilization.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/26.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Panasonic Lumix S5",
+    "price": 1999.99,
+    "description": "Panasonic Lumix S5 features a 24MP full-frame sensor, 4K video recording, and 5-axis image stabilization.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/27.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Samsung QN90A Neo QLED TV",
+    "price": 2499.99,
+    "description": "Samsung QN90A Neo QLED TV features a 4K resolution, Quantum HDR 32x, and Neo Quantum Processor 4K.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/28.jpg"
+      }
+    ],
+    "category": "Televisions",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "LG C1 OLED TV",
+    "price": 1999.99,
+    "description": "LG C1 OLED TV features a 4K resolution, Dolby Vision IQ, and α9 Gen 4 AI Processor 4K.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/29.jpg"
+      }
+    ],
+    "category": "Televisions",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Sony A80J OLED TV",
+    "price": 2299.99,
+    "description": "Sony A80J OLED TV features a 4K resolution, Dolby Vision, and Cognitive Processor XR.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/30.jpg"
+      }
+    ],
+    "category": "Televisions",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "TCL 6-Series Roku TV",
+    "price": 999.99,
+    "description": "TCL 6-Series Roku TV features a 4K resolution, Dolby Vision, and Mini-LED technology.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/31.jpg"
+      }
+    ],
+    "category": "Televisions",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Vizio M-Series Quantum",
+    "price": 899.99,
+    "description": "Vizio M-Series Quantum features a 4K resolution, Quantum Color, and SmartCast 3.0.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/32.jpg"
+      }
+    ],
+    "category": "Televisions",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "description": "Apple Watch Series 7 features a larger display, blood oxygen sensor, and ECG app.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/33.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "price": 299.99,
+    "description": "Samsung Galaxy Watch 4 features a sleek design, advanced health monitoring, and Wear OS.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/34.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "price": 179.99,
+    "description": "Fitbit Charge 5 features a color touchscreen, built-in GPS, and stress management tools.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/35.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Garmin Venu 2",
+    "price": 399.99,
+    "description": "Garmin Venu 2 features a bright AMOLED display, advanced health monitoring, and GPS.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/36.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Huawei Watch GT 3",
+    "price": 249.99,
+    "description": "Huawei Watch GT 3 features a long battery life, advanced health monitoring, and GPS.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/37.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 38",
+    "price": 120.00,
+    "description": "Nike Air Zoom Pegasus 38 features responsive cushioning, breathable mesh, and a secure fit.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/38.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 12
+  },
+  {
+    "name": "Adidas Ultraboost 21",
+    "price": 180.00,
+    "description": "Adidas Ultraboost 21 features Boost midsole, Primeknit upper, and a snug fit.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/39.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Under Armour HOVR Phantom 2",
+    "price": 150.00,
+    "description": "Under Armour HOVR Phantom 2 features HOVR cushioning, breathable upper, and energy return.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/40.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Puma RS-X³",
+    "price": 110.00,
+    "description": "Puma RS-X³ features a chunky design, comfortable cushioning, and bold colors.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/41.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "New Balance Fresh Foam 1080v11",
+    "price": 160.00,
+    "description": "New Balance Fresh Foam 1080v11 features Fresh Foam midsole, Hypoknit upper, and a plush fit.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/42.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "price": 99.99,
+    "description": "Logitech MX Master 3 features an ergonomic design, Darkfield tracking, and customizable buttons.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/43.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 11
+  },
+  {
+    "name": "Razer Basilisk V3",
+    "price": 69.99,
+    "description": "Razer Basilisk V3 features customizable scroll wheel, 11 programmable buttons, and Chroma RGB lighting.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/44.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Corsair K95 RGB Platinum XT",
+    "price": 199.99,
+    "description": "Corsair K95 RGB Platinum XT features Cherry MX switches, per-key RGB lighting, and a durable aluminum frame.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/45.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "SteelSeries Arctis Pro",
+    "price": 179.99,
+    "description": "SteelSeries Arctis Pro features high-fidelity audio, DTS Headphone:X v2.0, and a comfortable fit.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/46.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "HyperX Cloud II",
+    "price": 99.99,
+    "description": "HyperX Cloud II features 7.1 virtual surround sound, memory foam ear pads, and a durable aluminum frame.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/47.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Anker PowerCore 26800",
+    "price": 59.99,
+    "description": "Anker PowerCore 26800 features a high-capacity battery, PowerIQ technology, and fast charging.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/48.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 12
+  },
+  {
+    "name": "Belkin Boost Charge Pro",
+    "price": 49.99,
+    "description": "Belkin Boost Charge Pro features MagSafe compatibility, 15W fast charging, and a compact design.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/49.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 11
+  },
+  {
+    "name": "Samsung T7 Portable SSD",
+    "price": 129.99,
+    "description": "Samsung T7 Portable SSD features fast transfer speeds, password protection, and a durable design.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/50.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "SanDisk Extreme Pro SD Card",
+    "price": 79.99,
+    "description": "SanDisk Extreme Pro SD Card features high-speed performance, 128GB capacity, and durability.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/51.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "WD My Passport SSD",
+    "price": 149.99,
+    "description": "WD My Passport SSD features fast transfer speeds, password protection, and a compact design.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/52.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Seagate Backup Plus Slim",
+    "price": 69.99,
+    "description": "Seagate Backup Plus Slim features a sleek design, 2TB capacity, and automatic backup.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/53.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "LG UltraFine 4K Display",
+    "price": 699.99,
+    "description": "LG UltraFine 4K Display features a 21.5-inch 4K screen, P3 wide color gamut, and Thunderbolt 3 connectivity.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/54.jpg"
+      }
+    ],
+    "category": "Monitors",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Dell UltraSharp U2720Q",
+    "price": 599.99,
+    "description": "Dell UltraSharp U2720Q features a 27-inch 4K screen, HDR support, and USB-C connectivity.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/55.jpg"
+      }
+    ],
+    "category": "Monitors",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "ASUS ProArt PA278CV",
+    "price": 499.99,
+    "description": "ASUS ProArt PA278CV features a 27-inch 2K screen, factory-calibrated colors, and USB-C connectivity.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/56.jpg"
+      }
+    ],
+    "category": "Monitors",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Acer Predator X27",
+    "price": 1999.99,
+    "description": "Acer Predator X27 features a 27-inch 4K screen, G-Sync Ultimate, and HDR1000 support.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/57.jpg"
+      }
+    ],
+    "category": "Monitors",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "BenQ PD3220U",
+    "price": 999.99,
+    "description": "BenQ PD3220U features a 32-inch 4K screen, HDR10 support, and factory-calibrated colors.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/58.jpg"
+      }
+    ],
+    "category": "Monitors",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Epson EcoTank ET-4760",
+    "price": 399.99,
+    "description": "Epson EcoTank ET-4760 features high-capacity ink tanks, wireless printing, and a 2-year ink supply.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/59.jpg"
+      }
+    ],
+    "category": "Printers",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "HP OfficeJet Pro 9015e",
+    "price": 299.99,
+    "description": "HP OfficeJet Pro 9015e features fast printing, wireless connectivity, and automatic document feeder.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/60.jpg"
+      }
+    ],
+    "category": "Printers",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Canon PIXMA TR8620a",
+    "price": 199.99,
+    "description": "Canon PIXMA TR8620a features wireless printing, automatic document feeder, and mobile printing.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/61.jpg"
+      }
+    ],
+    "category": "Printers",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Brother HL-L2395DW",
+    "price": 149.99,
+    "description": "Brother HL-L2395DW features fast printing, wireless connectivity, and automatic duplex printing.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/62.jpg"
+      }
+    ],
+    "category": "Printers",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Lexmark MB2236adw",
+    "price": 299.99,
+    "description": "Lexmark MB2236adw features fast printing, wireless connectivity, and automatic document feeder.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/63.jpg"
+      }
+    ],
+    "category": "Printers",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Dyson V11 Torque Drive",
+    "price": 599.99,
+    "description": "Dyson V11 Torque Drive features powerful suction, LCD screen, and up to 60 minutes of runtime.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/64.jpg"
+      }
+    ],
+    "category": "Home Appliances",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Shark Navigator Lift-Away",
+    "price": 199.99,
+    "description": "Shark Navigator Lift-Away features powerful suction, lift-away pod, and HEPA filtration.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/65.jpg"
+      }
+    ],
+    "category": "Home Appliances",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "iRobot Roomba i7+",
+    "price": 799.99,
+    "description": "iRobot Roomba i7+ features smart mapping, automatic dirt disposal, and powerful cleaning.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/66.jpg"
+      }
+    ],
+    "category": "Home Appliances",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Ecovacs Deebot N8 Pro+",
+    "price": 499.99,
+    "description": "Ecovacs Deebot N8 Pro+ features smart navigation, auto-empty station, and mopping function.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/67.jpg"
+      }
+    ],
+    "category": "Home Appliances",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Philips Hue White & Color Ambiance",
+    "price": 199.99,
+    "description": "Philips Hue White & Color Ambiance features 16 million colors, voice control, and app control.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/68.jpg"
+      }
+    ],
+    "category": "Smart Home",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Nest Learning Thermostat",
+    "price": 249.99,
+    "description": "Nest Learning Thermostat features energy-saving technology, app control, and voice control.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/69.jpg"
+      }
+    ],
+    "category": "Smart Home",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Ring Video Doorbell Pro 2",
+    "price": 249.99,
+    "description": "Ring Video Doorbell Pro 2 features 1536p HD video, motion detection, and two-way talk.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/70.jpg"
+      }
+    ],
+    "category": "Smart Home",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Arlo Pro 4",
+    "price": 199.99,
+    "description": "Arlo Pro 4 features 2K video, wire-free installation, and color night vision.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/71.jpg"
+      }
+    ],
+    "category": "Smart Home",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "August Smart Lock Pro",
+    "price": 249.99,
+    "description": "August Smart Lock Pro features keyless entry, app control, and voice control.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/72.jpg"
+      }
+    ],
+    "category": "Smart Home",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "description": "Sony PlayStation 5 features ultra-high-speed SSD, ray tracing, and 4K gaming.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/73.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Xbox Series X",
+    "price": 499.99,
+    "description": "Xbox Series X features 12 teraflops of power, 4K gaming, and backward compatibility.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/74.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "price": 349.99,
+    "description": "Nintendo Switch OLED features a 7-inch OLED screen, enhanced audio, and versatile gaming modes.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/75.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Steam Deck",
+    "price": 399.99,
+    "description": "Steam Deck features a 7-inch touchscreen, AMD APU, and portable PC gaming.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/76.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Oculus Quest 2",
+    "price": 299.99,
+    "description": "Oculus Quest 2 features a high-resolution display, wireless VR, and hand tracking.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/77.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Logitech G Pro X",
+    "price": 129.99,
+    "description": "Logitech G Pro X features Blue VO!CE technology, detachable microphone, and customizable RGB lighting.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/78.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Razer BlackWidow V3",
+    "price": 139.99,
+    "description": "Razer BlackWidow V3 features Razer Green switches, customizable RGB lighting, and a durable design.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/79.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Corsair Virtuoso RGB Wireless",
+    "price": 179.99,
+    "description": "Corsair Virtuoso RGB Wireless features high-fidelity audio, 20-hour battery life, and premium build quality.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/80.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "HyperX Pulsefire Dart",
+    "price": 79.99,
+    "description": "HyperX Pulsefire Dart features wireless connectivity, 50-hour battery life, and customizable RGB lighting.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/81.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "SteelSeries Rival 650",
+    "price": 99.99,
+    "description": "SteelSeries Rival 650 features wireless connectivity, customizable weights, and TrueMove3+ sensor.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/82.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "ASUS ROG Swift PG279Q",
+    "price": 699.99,
+    "description": "ASUS ROG Swift PG279Q features a 27-inch 1440p display, 165Hz refresh rate, and G-Sync technology.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/83.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Acer Predator XB273K",
+    "price": 899.99,
+    "description": "Acer Predator XB273K features a 27-inch 4K display, 144Hz refresh rate, and G-Sync Ultimate.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/84.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "LG UltraGear 27GN950-B",
+    "price": 799.99,
+    "description": "LG UltraGear 27GN950-B features a 27-inch 4K display, 144Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/85.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Samsung Odyssey G7",
+    "price": 699.99,
+    "description": "Samsung Odyssey G7 features a 27-inch 1440p display, 240Hz refresh rate, and QLED technology.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/86.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "BenQ EX2780Q",
+    "price": 499.99,
+    "description": "BenQ EX2780Q features a 27-inch 1440p display, 144Hz refresh rate, and HDRi technology.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/87.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "MSI Optix MAG274QRF-QD",
+    "price": 599.99,
+    "description": "MSI Optix MAG274QRF-QD features a 27-inch 1440p display, 165Hz refresh rate, and Quantum Dot technology.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/88.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "ViewSonic Elite XG270QG",
+    "price": 699.99,
+    "description": "ViewSonic Elite XG270QG features a 27-inch 1440p display, 165Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/89.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Alienware AW2521HF",
+    "price": 499.99,
+    "description": "Alienware AW2521HF features a 24.5-inch 1080p display, 240Hz refresh rate, and AMD FreeSync Premium.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/90.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "HP Omen X 27",
+    "price": 599.99,
+    "description": "HP Omen X 27 features a 27-inch 1440p display, 240Hz refresh rate, and AMD FreeSync 2 HDR.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/91.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "AOC Agon AG273QCG",
+    "price": 699.99,
+    "description": "AOC Agon AG273QCG features a 27-inch 1440p display, 165Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/92.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "Dell Alienware AW3420DW",
+    "price": 999.99,
+    "description": "Dell Alienware AW3420DW features a 34-inch ultrawide display, 120Hz refresh rate, and G-Sync Ultimate.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/93.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "LG 34GN850-B",
+    "price": 999.99,
+    "description": "LG 34GN850-B features a 34-inch ultrawide display, 160Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/94.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "ASUS ROG Swift PG35VQ",
+    "price": 2499.99,
+    "description": "ASUS ROG Swift PG35VQ features a 35-inch ultrawide display, 200Hz refresh rate, and G-Sync Ultimate.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/95.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Acer Predator X35",
+    "price": 2499.99,
+    "description": "Acer Predator X35 features a 35-inch ultrawide display, 200Hz refresh rate, and G-Sync Ultimate.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/96.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 3
+  },
+  {
+    "name": "Samsung Odyssey G9",
+    "price": 1499.99,
+    "description": "Samsung Odyssey G9 features a 49-inch super ultrawide display, 240Hz refresh rate, and QLED technology.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/97.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "LG 38GN950-B",
+    "price": 1799.99,
+    "description": "LG 38GN950-B features a 38-inch ultrawide display, 160Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/98.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "ASUS ROG Swift PG43UQ",
+    "price": 1699.99,
+    "description": "ASUS ROG Swift PG43UQ features a 43-inch 4K display, 144Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/99.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "name": "Acer Predator CG437K",
+    "price": 1499.99,
+    "description": "Acer Predator CG437K features a 43-inch 4K display, 144Hz refresh rate, and G-Sync compatibility.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/100.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 5
+  }
+]
